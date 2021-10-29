@@ -13,9 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ⚡ Мне 13 годикав.
+
 ⚡ Живу в Украине.
+
 🔭 Знаю C#,Java,Python,JS
+
 💬 Гиты выкладываю редко,поэтому можете не расчитывать на что-то особенное.
+
 🤔 Моя статистика если кому-то нужна:
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vadershik&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
