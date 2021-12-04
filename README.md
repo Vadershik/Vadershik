@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ⚡ Мне 14 годикав.
 
-⚡ Николай)
+⚡ Николя)
 
 ⚡ Живу в Украине.
 
