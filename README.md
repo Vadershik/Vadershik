@@ -24,5 +24,6 @@ Here are some ideas to get you started:
 
 🤔 Моя статистика если кому-то нужна:
 
+<img height="60m" src="https://www.codewars.com/users/vader123321/badges/large" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vadershik&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=gruvbox" />
 <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vadershik&layout=compact&theme=gruvbox" />
