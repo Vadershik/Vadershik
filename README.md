@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-⚡ Мне 16 годикав.
+⚡ Мне 17 годикав.
 
 ⚡ Николя)
 
